@@ -10,6 +10,8 @@
   
 Модификаторы доступа public, protected , default, private
 
+<img src = "java-access-modifiers.png"></img>
+
 public - код доступен из любого месте програмы.
 
 protected - код доступен в классе, общем pakage , в классах наследниках в других папках.
