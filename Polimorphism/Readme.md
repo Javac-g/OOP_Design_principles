@@ -5,6 +5,6 @@
   1. Полиморфизм времени компиляции. Compile time polymorphism , static binding.
   Полиморфизм времени компиляции заключен в перегрузке методов. Methods overloading.
   Перегрузка методов в java совершаеться при помощи изменения типа параметров, их количества , их порядка в сигнатуре метода.
-  <img src = "carbon.png" width = "200",height = "100"></img>
+  <img src = "carbon.png" width = 200 height = 100></img>
  
  2. Полиморфизм времени выполнения. Run time polymorphism, dynamic binding.
